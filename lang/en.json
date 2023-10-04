@@ -1,0 +1,22 @@
+{
+  "GNURPS.AbilityStr": "Strength",
+  "GNURPS.AbilityCon": "Constitution",
+  "GNURPS.AbilityDex": "Dexterity",
+  "GNURPS.AbilityInt": "Intelligence",
+  "GNURPS.AbilityWis": "Wisdom",
+  "GNURPS.AbilityCha": "Charisma",
+
+  "GNURPS.AbilityStrAbbr": "str",
+  "GNURPS.AbilityConAbbr": "con",
+  "GNURPS.AbilityDexAbbr": "dex",
+  "GNURPS.AbilityIntAbbr": "int",
+  "GNURPS.AbilityWisAbbr": "wis",
+  "GNURPS.AbilityChaAbbr": "cha",
+
+  "GNURPS.EffectCreate": "Create Effect",
+  "GNURPS.EffectToggle": "Toggle Effect",
+  "GNURPS.EffectEdit": "Edit Effect",
+  "GNURPS.EffectDelete": "Delete Effect",
+
+  "GNURPS.Add": "Add"
+}

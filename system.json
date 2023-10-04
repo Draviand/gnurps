@@ -1,0 +1,34 @@
+{
+  "id": "gnurps",
+  "title": "Gnurps",
+  "description": "The Gnurps system for FoundryVTT!",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11"
+#    "maximum": 
+  },
+  "authors": [{
+    "name": "GnurpyMan"
+  }],
+  "esmodules": ["module/gnurps.mjs"],
+  "styles": ["css/gnurps.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 1,
+  "gridUnits": "yds",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "fatigue",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt",
+  "changelog": "CHANGELOG.md"
+}
