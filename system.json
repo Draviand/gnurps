@@ -6,7 +6,7 @@
   "compatibility": {
     "minimum": 11,
     "verified": "11"
-#    "maximum": 
+    "maximum": "11"
   },
   "authors": [{
     "name": "GnurpyMan"
